@@ -1,6 +1,1 @@
--m pip install --upgrade pip
 python-nmap
-os
-platform
-psutil
-socket
