@@ -1,0 +1,5 @@
+python-nmap
+os
+platform
+psutil
+socket
